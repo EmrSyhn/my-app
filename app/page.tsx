@@ -117,7 +117,7 @@ export default function Portfolio() {
           >
             <div className="relative">
               <h1 className="text-6xl md:text-8xl font-bold bg-gradient-to-r from-blue-400 via-purple-400 to-orange-400 bg-clip-text text-transparent">
-                Hi, I'm Emir
+                Hi, I&apos;m Emir
               </h1>
               <motion.div
                 animate={{ rotate: [0, 10, -10, 0] }}
@@ -208,8 +208,8 @@ export default function Portfolio() {
               <Card className="bg-gray-900/50 border-gray-800 backdrop-blur-sm">
                 <CardContent className="p-8">
                   <p className="text-lg text-gray-300 leading-relaxed mb-6">
-                    I'm a passionate mobile app developer from Turkey with experience building fast, beautiful, and
-                    functional Flutter apps. After a short break exploring life from a different angle, I'm back coding
+                    I&apos;m a passionate mobile app developer from Turkey with experience building fast, beautiful, and
+                    functional Flutter apps. After a short break exploring life from a different angle, I&apos;m back coding
                     full-time and better than ever.
                   </p>
                   <p className="text-gray-400">
@@ -267,7 +267,7 @@ export default function Portfolio() {
             <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-orange-400 bg-clip-text text-transparent">
               Featured Projects
             </h2>
-            <p className="text-gray-400 text-lg">Some of the amazing apps I've built</p>
+            <p className="text-gray-400 text-lg">Some of the amazing apps I&apos;ve built</p>
           </motion.div>
 
           <div className="grid md:grid-cols-2 gap-8">
@@ -471,9 +471,9 @@ export default function Portfolio() {
             className="text-center mb-16"
           >
             <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-blue-400 to-orange-400 bg-clip-text text-transparent">
-              Let's Connect
+              Let&apos;s Connect
             </h2>
-            <p className="text-gray-400 text-lg">I don't bite 😄 Let's build something awesome together.</p>
+            <p className="text-gray-400 text-lg">I don&apos;t bite 😄 Let&apos;s build something awesome together.</p>
           </motion.div>
 
           <div className="grid md:grid-cols-2 gap-12">
